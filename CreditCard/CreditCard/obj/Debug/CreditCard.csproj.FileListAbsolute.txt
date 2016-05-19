@@ -1,0 +1,4 @@
+c:\users\користувач\documents\visual studio 2012\Projects\CreditCard\CreditCard\bin\Debug\CreditCard.dll
+c:\users\користувач\documents\visual studio 2012\Projects\CreditCard\CreditCard\bin\Debug\CreditCard.pdb
+c:\users\користувач\documents\visual studio 2012\Projects\CreditCard\CreditCard\obj\Debug\CreditCard.dll
+c:\users\користувач\documents\visual studio 2012\Projects\CreditCard\CreditCard\obj\Debug\CreditCard.pdb

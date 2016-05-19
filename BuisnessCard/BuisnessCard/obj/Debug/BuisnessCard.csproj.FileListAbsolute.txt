@@ -1,0 +1,4 @@
+c:\users\користувач\documents\visual studio 2012\Projects\BuisnessCard\BuisnessCard\bin\Debug\BuisnessCard.dll
+c:\users\користувач\documents\visual studio 2012\Projects\BuisnessCard\BuisnessCard\bin\Debug\BuisnessCard.pdb
+c:\users\користувач\documents\visual studio 2012\Projects\BuisnessCard\BuisnessCard\obj\Debug\BuisnessCard.dll
+c:\users\користувач\documents\visual studio 2012\Projects\BuisnessCard\BuisnessCard\obj\Debug\BuisnessCard.pdb

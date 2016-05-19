@@ -1,0 +1,4 @@
+c:\users\користувач\documents\visual studio 2012\Projects\Money\Money\bin\Debug\Money.dll
+c:\users\користувач\documents\visual studio 2012\Projects\Money\Money\bin\Debug\Money.pdb
+c:\users\користувач\documents\visual studio 2012\Projects\Money\Money\obj\Debug\Money.dll
+c:\users\користувач\documents\visual studio 2012\Projects\Money\Money\obj\Debug\Money.pdb
