@@ -1,0 +1,8 @@
+c:\users\користувач\documents\visual studio 2012\Projects\Purse\Purse\bin\Debug\Purse.exe.config
+c:\users\користувач\documents\visual studio 2012\Projects\Purse\Purse\bin\Debug\Purse.exe
+c:\users\користувач\documents\visual studio 2012\Projects\Purse\Purse\bin\Debug\Purse.pdb
+c:\users\користувач\documents\visual studio 2012\Projects\Purse\Purse\obj\Debug\Purse.csprojResolveAssemblyReference.cache
+c:\users\користувач\documents\visual studio 2012\Projects\Purse\Purse\obj\Debug\Purse.exe
+c:\users\користувач\documents\visual studio 2012\Projects\Purse\Purse\obj\Debug\Purse.pdb
+c:\users\користувач\documents\visual studio 2012\Projects\Purse\Purse\bin\Debug\Money.dll
+c:\users\користувач\documents\visual studio 2012\Projects\Purse\Purse\bin\Debug\Money.pdb
