@@ -11,5 +11,6 @@ namespace CreditCard
         private string num;
         private string cvv2;
         private DateTime expireDate;
+public int i;
     }
 }
